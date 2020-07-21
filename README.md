@@ -9,6 +9,10 @@ This is a structure project for a based backend application.
 - Typescript
 - TypeOrm
 - Express
+- Tests
+- Middleware for JWT authentication
 - Absolute paths
 - Configured Jest
 - Configured Babel
+
+# :fix: 
