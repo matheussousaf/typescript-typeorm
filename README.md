@@ -1,7 +1,6 @@
-# Express + Typescript + Typeorm
+# Express + Typescript + Typeorm [UnderDevelopment]
 
 [![Typeorm Badge](https://img.shields.io/badge/Type-Orm-orange?style=flat-square&logo=)](https://typeorm.io/#/) [![Typescript](https://img.shields.io/badge/-Typescript-blue.svg?logo=typescript&style=flat-square)](https://www.typescriptlang.org) [![Express](https://img.shields.io/badge/-ExpressJS-gray.svg?logo=&style=flat-square)](https://www.typescriptlang.org)
-
 
 This is a structure project for a based backend application.
 
@@ -16,10 +15,16 @@ This is a structure project for a based backend application.
 - Configured Jest
 - Configured Babel
 
-## :hammer: Setup 
+## :hammer: Setup
 
-`git clone` 
+First clone the project with
 
-Download dependencies with ``yarn``.
+```git clone https://github.com/matheussousaf/typescript-typeorm```
 
-Start the **development server** with `yarn dev`.
+Then download dependencies with 
+
+`yarn`.
+
+Start the **development server** with 
+
+`yarn dev`
