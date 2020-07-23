@@ -28,5 +28,3 @@ Then download dependencies with
 Start the **development server** with 
 
 `yarn dev`
-
-## 
